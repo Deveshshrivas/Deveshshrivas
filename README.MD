@@ -1,11 +1,9 @@
-<!-- Profile README for Devesh Shrivas -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6366f1&height=200&section=header&text=Devesh%20Shrivas&fontSize=50&fontAlign=50&fontColor=ffffff&desc=Software%20Developer%20%7C%20Data%20Visualization%20%7C%20MERN%20%26%20Django%20Backend&descAlign=50&descSize=20" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6366f1&height=200&section=header&text=Devesh%20Shrivas&fontSize=50&fontAlign=50&fontColor=ffffff" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👨‍💻+Software+Developer;📊+Data+Visualization+Enthusiast;🌐+MERN+%2B+Django+Backend;🚀+Always+Learning+and+Building!&font=Fira%20Code&center=true&width=600&height=45&duration=2500&pause=500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&width=600&lines=Software+Developer;Data+Visualization;MERN%20%26%20Django%20Backend;Always%20Learning!" alt="Typing SVG" />
 </p>
 
 <p align="center">
