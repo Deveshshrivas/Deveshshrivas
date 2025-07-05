@@ -79,6 +79,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deveshshrivas&layout=compact&theme=radical" alt="Top Langs" height="130">
 </p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deveshshrivas&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deveshshrivas&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
 ---
 
